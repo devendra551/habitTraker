@@ -1,7 +1,7 @@
 <h1>LoopBit</h1>
 <hr>
 <h3> How to run the Website ?</h3>
-<p>Either clone the repository and run or use above Link</p>
+<p>npm start</p>
 <hr>
 <h2> Brief Intro about the Website</h2>
 <p>
